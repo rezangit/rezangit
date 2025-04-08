@@ -30,7 +30,6 @@ I’m a Software Engineer focused on building scalable, efficient, and user-frie
 - 🌱 I’m continuously learning new technologies and expanding my skills in **cloud computing and AI/ML**.
 - 👯 I’m open to collaborating on exciting projects and innovative ideas.
 - 💬 Ask me about **development best practices, cloud architecture, or my latest tech experiments**.
-- 📫 How to reach me: [reza.azizi@example.com](mailto:reza.azizi@example.com)
 - ⚡ Fun fact: I'm passionate about blending creativity with technology to make impactful solutions.
 
 <!-- ======= SKILLS & TOOLS SECTION ======= -->
@@ -58,7 +57,7 @@ I’m a Software Engineer focused on building scalable, efficient, and user-frie
 
 <!-- ======= FOOTER SECTION ======= -->
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rezaazizi.rezaazizi" alt="Visitor Badge">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rezangit.rezangit" alt="Visitor Badge">
 </p>
 
 <!--
