@@ -18,7 +18,7 @@
 <!-- ======= PROFILE IMAGE (Replace URL with yours if desired) ======= -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/rezangit/rezangit/main/assets/reza-action-figure.png" alt="Profile image" width="200" style="border-radius: 50%;"/>
-  assets/reza-action-figure.png
+
 </p>
 
 <!-- ======= ABOUT ME SECTION ======= -->
@@ -48,11 +48,11 @@ I’m a Software Engineer focused on building scalable, efficient, and user-frie
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rezangit&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezangit&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <!-- ======= FOOTER SECTION ======= -->
