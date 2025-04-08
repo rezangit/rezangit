@@ -64,7 +64,8 @@ I’m a Software Engineer focused on building scalable, efficient, and user-frie
 <!--
   Feel free to update, add sections, or adjust styling to suit your personal brand!
 -->
-
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 ### 🐍 GitHub Contribution Snake
 
