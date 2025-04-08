@@ -35,13 +35,17 @@ I’m a Software Engineer focused on building scalable, efficient, and user-frie
 <!-- ======= SKILLS & TOOLS SECTION ======= -->
 ## Technologies & Tools
 
-<!-- List some common technologies – update these as needed -->
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff" alt="Python">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff" alt="Node.js">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=fff" alt="AWS">
+  <!-- BADGIE TIME -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" alt="Kafka">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Microservices-02303A?style=flat-square&logo=spring-boot&logoColor=white" alt="Microservices">
+  <img src="https://img.shields.io/badge/DDD-FF4088?style=flat-square&logo=architecture&logoColor=white" alt="DDD">
+  <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white" alt="API">
+  <!-- END BADGIE TIME -->
 </p>
 
 <!-- ======= GITHUB STATISTICS SECTION ======= -->
