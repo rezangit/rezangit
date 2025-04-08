@@ -17,7 +17,8 @@
 
 <!-- ======= PROFILE IMAGE (Replace URL with yours if desired) ======= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rezangit/rezangit/main/assets/action-figure.png" alt="Profile image" width="200" style="border-radius: 50%;"/>
+  <img src="https://raw.githubusercontent.com/rezangit/rezangit/main/assets/reza-action-figure.png" alt="Profile image" width="200" style="border-radius: 50%;"/>
+  assets/reza-action-figure.png
 </p>
 
 <!-- ======= ABOUT ME SECTION ======= -->
