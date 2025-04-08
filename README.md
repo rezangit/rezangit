@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/rezaazizi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-RezaAzizi-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
   <!-- If you have a Twitter, Instagram, or personal website, include them here -->
-  <a href="https://twitter.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/Twitter-@yourhandle-blue?style=flat-square&logo=twitter" alt="Twitter"></a>
+  <a href="https://twitter.com/vancity_reza" target="_blank"><img src="https://img.shields.io/badge/Twitter-@vancity_reza-blue?style=flat-square&logo=twitter" alt="Twitter"></a>
 </p>
 
 <!-- ======= PROFILE IMAGE (Replace URL with yours if desired) ======= -->
