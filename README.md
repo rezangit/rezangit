@@ -11,7 +11,7 @@
 # <div align="center">Reza Azizi</div>
 
 <div align="center">
-  <b>Software Developer • AI Expert • Cloud Architect</b>
+  <b>Senior Software Developer • AI/ML Specialist • Cloud Solutions Architect</b>
 </div>
 
 <p align="center">
@@ -30,29 +30,65 @@
 
 ## About Me
 
-I'm a Software Engineer focused on building scalable systems and pushing technological boundaries. With expertise in cloud architecture and AI, I create innovative solutions that drive technological advancement.
+Hey there! 👋 I'm a passionate Senior Software Engineer with a deep focus on building scalable, cloud-native systems and leveraging cutting-edge AI technologies. With over 10 years of experience, I specialize in designing and implementing robust microservices architectures and developing AI-powered solutions that solve real-world problems.
+
+💡 What I Do:
+- Design and implement scalable cloud-native applications
+- Develop AI/ML solutions for complex business challenges
+- Lead technical teams and mentor junior developers
+- Advocate for best practices in software architecture and clean code
+
+🎯 Current Focus:
+- Exploring Large Language Models and their practical applications
+- Building scalable microservices using Domain-Driven Design
+- Contributing to open-source AI projects
+- Sharing knowledge through technical writing and mentoring
 
 ```typescript
 const profile = {
-  currentFocus: "Building innovative full-stack projects",
-  learning: ["Cloud Computing", "Advanced AI/ML"],
-  expertise: ["Development Practices", "Cloud Architecture"],
-  passions: ["Creative Tech Solutions", "System Innovation"]
+  currentRole: "Senior Software Engineer",
+  location: "Vancouver, Canada",
+  expertise: [
+    "Cloud Architecture",
+    "AI/ML Engineering",
+    "Microservices",
+    "Domain-Driven Design"
+  ],
+  technologies: {
+    cloud: ["AWS", "Azure", "GCP"],
+    ai_ml: ["TensorFlow", "PyTorch", "Scikit-learn"],
+    backend: ["Java", "Python", "Node.js"],
+    architecture: ["DDD", "Event-Driven", "Microservices"]
+  },
+  currentlyLearning: [
+    "Large Language Models",
+    "Data Analytics",
+    "AI Agents"
+  ]
 };
 ```
 
 ## Technologies & Tools
 
 <p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Microservices-326CE5?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Microservices">
-  <img src="https://img.shields.io/badge/DDD-FF4088?style=for-the-badge&logo=analytics&logoColor=white" alt="DDD">
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="API">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
 </p>
+
+## Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- 🚀 [Building Scalable Microservices with DDD](your-blog-link)
+- 🤖 [Practical Applications of LLMs in Enterprise](your-blog-link)
+- ☁️ [Cloud-Native Best Practices](your-blog-link)
+<!-- BLOG-POST-LIST:END -->
 
 ## GitHub Analytics
 
