@@ -22,8 +22,8 @@
   <a href="https://twitter.com/vancity_reza">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
+  -->
   <img src="https://komarev.com/ghpvc/?username=rezangit&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile Views"/>
-    -->
 </p>
 
 <div align="center">
