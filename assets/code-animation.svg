@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="300" viewBox="0 0 500 300">
+  <style>
+    .code { font-family: monospace; font-size: 14px; }
+    .purple { fill: #6A5ACD; }
+    .pink { fill: #FF69B4; }
+    .blue { fill: #4169E1; }
+    .white { fill: #FFFFFF; }
+    @keyframes typing {
+      from { width: 0; }
+      to { width: 100%; }
+    }
+    .typing {
+      animation: typing 3s steps(30, end) infinite;
+      white-space: nowrap;
+      overflow: hidden;
+    }
+  </style>
+  <rect x="0" y="0" width="500" height="300" fill="#0D1117"/>
+  
+  <g transform="translate(50, 50)">
+    <text x="0" y="20" class="code white typing">function createMagic() {</text>
+    <text x="20" y="40" class="code blue typing">const tech = ["AI", "Cloud", "Code"];</text>
+    <text x="20" y="60" class="code pink typing">const innovation = tech.map(t => `${t}✨`);</text>
+    <text x="20" y="80" class="code purple typing">return innovation.join(" + ");</text>
+    <text x="0" y="100" class="code white typing">}</text>
+    
+    <text x="0" y="140" class="code white typing">// Result: "AI✨ + Cloud✨ + Code✨"</text>
+    <text x="0" y="180" class="code purple typing">console.log(createMagic());</text>
+  </g>
+</svg>

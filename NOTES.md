@@ -48,4 +48,4 @@ The vibrant color scheme used throughout the README:
 
 ## Easter Egg
 
-The README contains a hidden easter egg link in the header section, disguised as a "?" badge. It currently points to a Rick Roll video (https://bit.ly/3NcDfYZ). This can be customized to point to any fun content of your choice.
+The README contains a hidden easter egg link in the header section, disguised as a "?" badge. It currently points to a Rick Roll video (https://www.youtube.com/watch?v=dQw4w9WgXcQ). This can be customized to point to any fun content of your choice.

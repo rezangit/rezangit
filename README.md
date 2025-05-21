@@ -6,8 +6,7 @@
 
 <div align="center">
   <!-- Animated Tech Banner -->
-  <img src="https://raw.githubusercontent.com/rezangit/rezangit/feature/fun-tech-profile/assets/tech-banner.gif" alt="Tech Animation Banner" width="100%"/>
-  <!-- Placeholder for an animated banner to be added later -->
+  <img src="https://raw.githubusercontent.com/rezangit/rezangit/main/assets/tech-banner.gif" alt="Tech Animation Banner" width="100%"/>
 </div>
 
 <h1 align="center">
@@ -24,14 +23,13 @@
   <!-- Visitor counter with vibrant colors -->
   <img src="https://komarev.com/ghpvc/?username=rezangit&style=for-the-badge&color=6A5ACD&label=VISITORS" alt="Profile Views"/>
   <!-- Easter egg hidden in plain sight (the "?" leads to a surprise) -->
-  <a href="https://bit.ly/3NcDfYZ" title="Find something cool!">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="Find something cool!">
     <img src="https://img.shields.io/badge/?-4169E1?style=for-the-badge&logo=react&logoColor=white" alt="Easter Egg">
   </a>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rezangit/rezangit/feature/fun-tech-profile/assets/neon-divider.gif" width="100%">
-  <!-- Placeholder for a neon divider to be added later -->
+  <img src="https://raw.githubusercontent.com/rezangit/rezangit/main/assets/neon-divider.gif" width="100%">
 </div>
 
 ## 💫 About Me
@@ -140,7 +138,7 @@ const reza = {
         <h3 align="center">AI-Powered Analytics Platform</h3>
         <div align="center">
           <a href="#" target="_blank">
-            <img src="https://via.placeholder.com/300x180?text=AI+Analytics+Platform" width="300" alt="AI Analytics Platform">
+            <img src="https://raw.githubusercontent.com/rezangit/rezangit/main/assets/ai-analytics-platform.png" width="300" alt="AI Analytics Platform">
           </a>
           <p>
             <a href="#">
@@ -162,7 +160,7 @@ const reza = {
         <h3 align="center">Event-Driven Microservices</h3>
         <div align="center">
           <a href="#" target="_blank">
-            <img src="https://via.placeholder.com/300x180?text=Microservices+Architecture" width="300" alt="Microservices Architecture">
+            <img src="https://raw.githubusercontent.com/rezangit/rezangit/main/assets/microservices-architecture.png" width="300" alt="Microservices Architecture">
           </a>
           <p>
             <a href="#">
@@ -203,16 +201,16 @@ const reza = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rezangit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6A5ACD&icon_color=FF69B4&text_color=C9D1D9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rezangit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6A5ACD&icon_color=FF69B4&text_color=FFFFFF" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezangit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&text_color=C9D1D9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezangit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&text_color=FFFFFF" />
   
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rezangit&theme=react-dark&hide_border=true&bg_color=0D1117&color=6A5ACD&line=FF69B4&point=4169E1" />
 </div>
 
 <div align="center">
   <!-- GitHub streak stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezangit&theme=tokyonight&hide_border=true&background=0D1117&stroke=6A5ACD&ring=FF69B4&fire=4169E1&currStreakLabel=C9D1D9" alt="GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezangit&theme=tokyonight&hide_border=true&background=0D1117&stroke=6A5ACD&ring=FF69B4&fire=4169E1&currStreakLabel=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF" alt="GitHub streak stats" />
   
   <!-- GitHub trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=rezangit&theme=nord&no-frame=true&no-bg=true&column=7&title=MultiLanguage,Repositories,Commits,PullRequest,Followers,Stars,Issues" alt="GitHub trophies" />
@@ -222,13 +220,12 @@ const reza = {
 
 <!-- Random coding joke using API -->
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&qColor=6A5ACD&aColor=FF69B4&borderColor=0D1117" alt="Jokes Card" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&qColor=FFFFFF&aColor=FFFFFF&borderColor=0D1117" alt="Jokes Card" />
 </div>
 
 <!-- Code animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rezangit/rezangit/feature/fun-tech-profile/assets/code-animation.svg" width="500" alt="Code Animation">
-  <!-- Placeholder for a code animation to be added later -->
+  <img src="https://raw.githubusercontent.com/rezangit/rezangit/main/assets/code-animation.svg" width="500" alt="Code Animation">
 </div>
 
 ## 🐍 Contributions
@@ -242,8 +239,7 @@ const reza = {
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rezangit/rezangit/feature/fun-tech-profile/assets/rainbow-hr.png" width="100%">
-  <!-- Placeholder for a colorful divider to be added later -->
+  <img src="https://raw.githubusercontent.com/rezangit/rezangit/main/assets/rainbow-hr.png" width="100%">
 </div>
 
 <h3 align="center">💎 Thanks for visiting my tech universe! 💎</h3>
