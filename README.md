@@ -91,10 +91,11 @@ const profile = {
 |---|---|---|
 | 🧠 [NeuroLithe](https://github.com/neurolithe/neurolithe) | Fast, embedded contextual-memory database for AI agents — decaying short-term memory + a permanent long-term knowledge tree, served over MCP | Rust, SQLite, sqlite-vec |
 | 🤖 JARVIS *(private)* | Personal "second brain" — event-driven pipeline that ingests, OCRs, catalogs and AI-tags documents end-to-end, with a WhatsApp agent on top | Kafka, Rust, Python, LLMs |
+| 🏺 [Pithos](https://github.com/rezangit/pithos) | Standalone write-once artifact store — hand it bytes, get a stable `pt://` URI back; content-agnostic, immutable, S3-backed | Rust, axum, MinIO |
+| ⏰ [Chronos](https://github.com/rezangit/chronos) | Bus-native durable scheduler — register timers over Kafka, it fires your event at the due time | Rust, SQLite, Kafka |
+| 🦉 [WiseQL](https://github.com/wiseql/wiseql) | The wise data browser — run SQL recipes as small, observable, debuggable steps | Python, Textual, DuckDB |
 | 🚗 [CanadianAutoRecyclers.com](https://canadianautorecyclers.com) | Live platform for getting instant quotes to recycle old cars across Canada | TypeScript, React |
 | 💬 Emotus *(private)* | Leadership-adviser chatbot platform with AI agents and a responsive web UI | Python, TypeScript, GCP |
-| 🎙️ [AICompanion](https://github.com/rezangit/AICompanion) | Voice-enabled AI companion | Flask, Google ADK, ElevenLabs |
-| 🔐 [Building Access Analyzer](https://github.com/rezangit/building-access-analyzer) | Anomaly detection over residential door-access logs | Python, DuckDB |
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
