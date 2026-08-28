@@ -89,7 +89,7 @@ const profile = {
 
 | Project | Description | Tech |
 |---|---|---|
-| 🧠 [NeuroLithe](https://github.com/neurolithe/neurolithe) | Fast, embedded contextual-memory database for AI agents — decaying short-term memory + a permanent long-term knowledge tree, served over MCP | Rust, SQLite, sqlite-vec |
+| 🧠 [NeuroLithe](https://github.com/rezangit/neurolithe) | Fast, embedded contextual-memory database for AI agents — decaying short-term memory + a permanent long-term knowledge tree, served over MCP | Rust, SQLite, sqlite-vec |
 | 🤖 JARVIS *(private)* | Personal "second brain" — event-driven pipeline that ingests, OCRs, catalogs and AI-tags documents end-to-end, with a WhatsApp agent on top | Kafka, Rust, Python, LLMs |
 | 🏺 [Pithos](https://github.com/rezangit/pithos) | Standalone write-once artifact store — hand it bytes, get a stable `pt://` URI back; content-agnostic, immutable, S3-backed | Rust, axum, MinIO |
 | ⏰ [Chronos](https://github.com/rezangit/chronos) | Bus-native durable scheduler — register timers over Kafka, it fires your event at the due time | Rust, SQLite, Kafka |
