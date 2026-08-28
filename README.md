@@ -97,13 +97,6 @@ const profile = {
 | 🚗 [CanadianAutoRecyclers.com](https://canadianautorecyclers.com) | Live platform for getting instant quotes to recycle old cars across Canada | TypeScript, React |
 | 💬 Emotus *(private)* | Leadership-adviser chatbot platform with AI agents and a responsive web UI | Python, TypeScript, GCP |
 
-## Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- 🚀 [Building Scalable Microservices with DDD](your-blog-link)
-- 🤖 [Practical Applications of LLMs in Enterprise](your-blog-link)
-- ☁️ [Cloud-Native Best Practices](your-blog-link)
-<!-- BLOG-POST-LIST:END -->
-
 ## GitHub Analytics
 
 <div align="center">
